@@ -1,5 +1,7 @@
 # FreeCAD Behave-Dark Colors
 
+![Colors](/resources/icons/Behave-Dark_200x200.png)
+
 **Screenshots pending**
 
 This is a preference pack including GUI color information to extend the Behave Dark stylesheet.
