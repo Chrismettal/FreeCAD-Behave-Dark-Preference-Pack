@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
-   sodipodi:docname="Behave-Dark Colors.svg"
+   sodipodi:docname="Behave-Dark.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -28,8 +28,8 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="45.254834"
-     inkscape:cx="6.3308154"
-     inkscape:cy="9.8773978"
+     inkscape:cx="2.8173786"
+     inkscape:cy="10.098369"
      inkscape:window-width="2457"
      inkscape:window-height="1400"
      inkscape:window-x="0"
@@ -65,13 +65,13 @@
        y="51.169231"
        ry="0.10007221" />
     <rect
-       style="fill:#ef4d44;stroke-width:0.338142;fill-opacity:1"
+       style="fill:#ef4d44;fill-opacity:1;stroke-width:0.289836"
        id="rect3321"
-       width="1.852083"
-       height="1.8520814"
+       width="1.5874974"
+       height="1.5874997"
        x="31.729013"
-       y="53.550484"
-       ry="0.072969228" />
+       y="53.815063"
+       ry="0.062545106" />
     <rect
        style="fill:#f0d879;fill-opacity:1;stroke-width:0.386448"
        id="rect3321-3"
@@ -81,12 +81,12 @@
        y="53.2859"
        ry="0.083393484" />
     <rect
-       style="fill:#61d29d;fill-opacity:1;stroke-width:0.338142"
+       style="fill:#61d29d;fill-opacity:1;stroke-width:0.289836"
        id="rect3321-6"
-       width="1.8520786"
-       height="1.8520801"
-       x="34.11026"
+       width="1.5874943"
+       height="1.5874958"
+       x="34.374844"
        y="51.169235"
-       ry="0.072969183" />
+       ry="0.062544957" />
   </g>
 </svg>
