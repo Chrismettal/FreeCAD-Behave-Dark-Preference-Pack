@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>Behave-Dark Colors</name>
+  <description>A preference pack including GUI color information to extend the Behave Dark stylesheet</description>
+  <version>0.0.1</version>
+  <maintainer email="chrismettal@binary-6.de">Chrismettal</maintainer>
+  <license file="LICENSE">GPLv3</license>
+  <url type="repository" branch="main">https://github.com/Chrismettal/FreeCAD-Behave-Dark-Preference-Pack</url>
+  <icon></icon>
+
+  <content>
+    <preferencepack>
+      <name>Behave-Dark Colors</name>
+      <description>Behave-Dark color scheme</description>
+      <tag>color</tag>
+      <tag>dark</tag>
+      <tag>behave</tag>
+      <tag>eye-friendly</tag>
+    </preferencepack>
+  </content>
+
+</package>
