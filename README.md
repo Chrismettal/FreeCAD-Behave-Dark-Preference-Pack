@@ -2,7 +2,15 @@
 
 ![Colors](/resources/icons/Behave-Dark_200x200.png)
 
-**Screenshots pending**
+---
+
+![PartDesign](/resources/screenshots/PartDesign.png)
+
+---
+
+![Sketcher](/resources/screenshots/Sketcher.png)
+
+---
 
 This is a preference pack including GUI color information to extend the Behave Dark stylesheet.
 
