@@ -5,7 +5,7 @@
   <version>0.1.1</version>
   <maintainer email="chrismettal@binary-6.de">Chrismettal</maintainer>
   <license file="LICENSE">GPLv3</license>
-  <url type="repository" branch="Development">https://github.com/Chrismettal/FreeCAD-Behave-Dark-Preference-Pack</url>
+  <url type="repository" branch="main">https://github.com/Chrismettal/FreeCAD-Behave-Dark-Preference-Pack</url>
   <icon>resources/icons/Behave-Dark.svg</icon>
 
   <content>
